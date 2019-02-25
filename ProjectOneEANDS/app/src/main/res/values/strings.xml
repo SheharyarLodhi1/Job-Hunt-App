@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Search Jobs</string>
+
+    <string name="main_splash_text"> Search Jobs </string>
+    <string name="main_bottom_menu_search">Search Jobs</string>
+    <string name="main_bottom_menu_sf">Jobs in SF</string>
+    <string name="main_bottom_menu_android">Android Jobs</string>
+    <string name="no_internet_connection">No Internet</string>
+    <string name="no_jobs_found">No Jobs Found</string>
+</resources>
